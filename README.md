@@ -10,4 +10,6 @@ Estudos Da Plataforma https://web.digitalinnovation.one/
 
 "Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Javascript. Aprenderemos juntos a trabalhar com posicionamento no CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array."
 
+### Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google
 
+"Nesse projeto vamos construir junto com o especialista um sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Vamos desenvolver esse buscador usando React.JS e API do Google, iniciando do zero à nuvem."
