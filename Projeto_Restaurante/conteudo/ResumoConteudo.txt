@@ -1,4 +1,15 @@
 Aplicações web com React.js
 
-Busca de Restaurantes
+Resquisitos Básicos
+
+> Conhecimento em HTML, CSS , JavaScript
+> Conhecimento intermediário em React.js
+> Node.js (npm ou yarn) - NVM
+> Git, github
+
+Styled-components - é uma biblioteca para react e react Native
+que permite que você use estilos ao nível de componente na 
+sua aplicação.Eles são escritos em uma mistura de JavaScript
+com CSS.
+
 
