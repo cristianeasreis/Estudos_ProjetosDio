@@ -13,3 +13,8 @@ Estudos Da Plataforma https://web.digitalinnovation.one/
 ### Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google
 
 "Nesse projeto vamos construir junto com o especialista um sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Vamos desenvolver esse buscador usando React.JS e API do Google, iniciando do zero à nuvem."
+
+
+### .Net Fundamentals
+
+"Esse bootcamp é para as pessoas que estão iniciando sua carreira em desenvolvimento de software. Você aprenderá a desenvolver projetos em uma das linguagens de back-end mais utilizadas no mundo, o .NET C#, e a resolver algoritmos tendo um aprendizado completo, da teoria à prática."
