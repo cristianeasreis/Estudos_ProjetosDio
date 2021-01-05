@@ -77,6 +77,79 @@ Qual o site mais antigo em atividades ?
 São Francisco – O 'symbolics.com', 
 registrado em março de 1985, é o site mais antigo em atividade.
 
+Termos - Chaves 
+
+Download/Upload  hots               multimidia
+navegador        HTML               nick
+banda Larga      HTTP               online/offline
+cache            ícone              pixel
+crack            link               span
+email            login/logon        url
+emoticons/emoji  logout/logoff      vírus
+gif/jpg          mp3
+
+backup          Keylogger
+blog            Phishing
+coockies        podcast
+firewall        videoblog
+ip              youtuber
+hacker          fake news
+Vlog            cyber bullying
+pop-Up          Click bait
+
+Como funciona a internet 
+
+O que são redes ?
+
+O termo genérico rede define um conjunto de entidades 
+(objetos, pessoas, etc.) interligados uns aos outros. ... Rede 
+(em inglês, network): conjunto dos computadores e dispositivos conectados 
+uns aos outros. Saiba que dois computadores conectados constituem, por si só, 
+uma rede mínima.
+
+Bacbone
+
+. Espinha dorsal
+. Costelas
+. Poucas
+. Espalhadas pelo mundo.
+
+Backbone é a espinha dorsal da Internet, 
+responsável pelo envio e recebimento dos dados entre diferentes localidades, 
+dentro ou fora de um país.
+
+Provedor de acesso
+
+. Empresas telefônicas
+. Contratam o sinal do Backbone eo repassam ao usuário final-você , empresas...
+
+Provedores de acesso são empresas ou entidades que mantém a infra-estrutura 
+de comunicações necessária para que o usuário final, ou outros provedores 
+de serviço de acesso, possam se ligar a Internet.
+
+Provedor de Serviços
+
+. Dial-Up
+. ADSL (banda larga)
+. Fibra ótica
+. Rádio
+. Satélite
+. Movel 
+. P2P (peer to peer).
+
+Caminho inverso 
+
+. www
+. DNS
+. IP 
+. Classes de redes
+. 127.0.0.1 - Local host.
+
+TCP/IP E UDP - 
+
+
+
+
 
 
 
