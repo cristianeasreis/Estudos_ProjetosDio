@@ -1,2 +1,86 @@
 Primeiros passos para começar a programar
 
+Introdução ao tema
+
+O que é internet 
+
+História 
+
+> 1969 EUA .Arpanet.Departamento de Defesa.Guerra fria interligar 
+Laboratórios.Primeiros e-mail.
+> 1982 Universidades, Holanda , Dinamarca e Suécia.
+> 1987 Liberado o uso comercial nos EUA.
+> 1992 CERN cria a World Wide Web. Dados acessíveis a qualquer pessoa com acesso
+à internet.
+
+No Brasil 
+
+> 1988 FAPESP, UFRJ, I.NCC.
+> 1994 Uso comercial , Embratel.
+> Conexão discada
+> 2000 Banda Larga.
+
+Exercício Final 
+
+Qual foi o primeiro domínio criado ?
+
+symbolics.com 
+
+Em 1984, foram estabelecidos os sete 
+primeiros domínios de primeiro nível (TLDs), 
+que são as terminações dos endereços web, como “.com”, “.net” ou “.org”. 
+O primeiro domínio registrado foi o symboliscs.com em 1985,
+por um fabricante de computadores em Massachusetts, Nos Estados Unidos.
+
+Nessa época, qualquer um poderia registrar um domínio gratuitamente. 
+Só a partir de 1995 esse procedimento se tornou pago. 
+A empresa de consultoria tecnológica Network Solutions foi a primeira 
+com a habilidade cobrar pelos registros.
+
+E primeiro Blog ?
+
+ A cronologia dos blogs:
+ 
+ •1994: em janeiro deste ano, Justin Hallcriou o que se considera  como o primeiro blog. Trata-se de Links.net. Não é necessário dizer que nessa época o conceito de blog ou weblog nem sequer existia. Não era um blog como o conhecemos na atualidade, tal e qual seu nome nos sugere.
+ •1995 (Jan): publica-se a primeira entrada no Carolyn’s Diary, que seria o mais parecido a uma publicação de hoje em dia no site diário criado por Carolyn Burke.
+ •1997 (Dez) :Jorn Bargerutiliza pela primeira vez a palavraweblog, que se tornou tão conhecida a nível internacional.
+ •1999 :pelo momento, existiam apenas 23 blogs na internet.
+ •1999 (Abr): Peter Merholzencurta o termo weblogs e deixa-o como “blog”que todos usamos atualmente.
+ •1999 (Jul): aparece Pita, a primeira ferramenta on-line para a criação de weblog.
+ •1999 (Ago): nasce o Blogger, da mão da Pyra Labs.
+ •2001 começam a trabalhar em WordPress, ainda que não existiria uma versão oficial até 2 anos depois.
+ •2002: aparece Technoraticomo primeiro grande motor de busca de blogs.
+ •2002 (Fev): utiliza-se pela primeira vez o verbo“Dooced”que é a palavra utilizada quando despedem alguém por blogar. Tudo porque Heather Armstrong opinou sobre seu trabalho em seu blog pessoal.
+ •2002 (Ago): blogads converte-se em  a primeira plataforma de publicidade para blogs.
+ •2002 (Ago): nasce Gizmodo, criado por Nick Denton, que se converteria no primeiro grande império do mundo dos blogs.
+ •2003 (Fev): Google compra o Blogger com mais de 1.000.000 de usuários registrados (só 1/5 parte ativos).
+ •2003 (Mar): durante a guerra do Iraque, um blogueiro iraquiano (conhecido como “Salam Pax”) consegue pela primeira vez leitores a nível mundial.
+ •2003 (Mai): podemos encontrar a primeira versão oficial do WordPresspronta para baixar.
+ •2003 (Jun): Google lança Adsense, e até este momento nunca tinham relacionado a temática dos anúncios com o conteúdo do blog.
+ •2004 (Jan): Steve Garfieldcria o primeiro videoblog.
+ •2004 (Dez): Merriam-Websterproclama blog” como a palavra do ano.
+ •2005 (Dez): anúncios feitos somente em blogs atingem a incrível cifra de 100 milhões de dólares.
+ •2006: Já existem mais de 50 milhões de blogs na rede de acordo com o Technorati. Um ano mais tarde, a cifra já era de 116.000.000.
+ •2007: Tumblr vê a luz e é a primeira plataforma de microblogging de certa importância da história na qual os usuários podiam compartilhar conteúdo entre si.
+ •2010 (Dez): 4 anos mais tarde da última contagem nesta cronologia, o número de blogs alcança a cifra de160 milhões.
+ •2011 (Jul): Google promete renomear Blogger como Google Blogs para integrà-lo no Google+.
+
+Qual foi a primeira compra feita pela internet ?
+
+A primeira compra online teria sido realizada em 1994. 
+Apesar de a Pizza Hut ter se declarado a responsável pela primeira 
+transação online e, geralmente, levar o crédito, o vídeo afirma que a primeira 
+compra foi feita no site NetMarket, de Dan Kohn.
+
+Qual o site mais antigo em atividades ?
+
+São Francisco – O 'symbolics.com', 
+registrado em março de 1985, é o site mais antigo em atividade.
+
+
+
+
+
+
+
+
