@@ -1,7 +1,5 @@
 Primeiros passos para começar a programar
 
-Introdução ao tema
-
 O que é internet 
 
 História 
@@ -145,7 +143,62 @@ Caminho inverso
 . Classes de redes
 . 127.0.0.1 - Local host.
 
-TCP/IP E UDP - 
+TCP/IP 
+
+. Protocolos de comunicação entre computadores em rede.
+. Tramission Control Protocol - Protocolo de Controle de Transmissão
+. Internet Protocol - Protocolo de Internt 
+. Modelo de Camadas.
+
+Quatro Camadas 
+
+1 Física - placa de rede
+2 Rede - IP
+3 Transporte - TCP, UDP
+4 Aplicação - FTP ,SMTP , HTTP
+
+Portas - Ports
+
+As portas por onde dados sairão e chegarão.
+
+. 20 FTP
+. 22 SSH
+. 25 SMTP
+. 53 DNS
+. 80 HTTP
+. 443 HTTPS
+
+Modem 
+
+. Modulator- demodulator
+. Hardware que converte dados em um formato que possa ser transmitido de 
+um computador para outro e lido por outro.
+
+Roteador 
+
+. Distribui internet para um ou mais dispositivos de uma rede.
+. Pode fazer a comunicação entre redes.
+
+Switch 
+
+. Distribui internet para um ou mais dispositivos de rede 
+. Criado para ser inteligente
+
+Dados Moveis 
+
+SMS - Quanto custa, para uma operadora de telefonia móvel , enviar uma SMS ?
+. não custa nada.
+. o celular troca, naturalmente , alguns bits com as torres de comunicação.
+
+MMS - Transmissão de mensagens multimidias (audio,video) por meio de uma 
+especie de conexão de dados primitivas.
+
+Bluetooth - conexão ponta-a-ponta.
+
+
+
+
+
 
 
 
