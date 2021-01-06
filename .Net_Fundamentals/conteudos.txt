@@ -195,6 +195,100 @@ especie de conexão de dados primitivas.
 
 Bluetooth - conexão ponta-a-ponta.
 
+Browser ou Navegador
+
+> Sabe identificar várias LP, linguagens de marcação e conteudo
+multimedia.
+> Hoje , os Browsers fazem muito mais que isso 
+existem plug-ins, ou add-ons, que ajudaram na navegação
+> Cache e cookies.
+
+archive.org/web/ para pesquisa de sites antigos
+
+Aplicativo
+
+> Um software que é executado no navegador
+> Um aplicativo de celular , muitas vezes , nada mais do que uma 
+espécie de navegador
+> Hoje em dia , já quase não existe diferença entre site e aplicativo
+e o primeiro está em declinio
+> Outra diferença terminlógica que está sumindo é entre 
+programa/software e aplicativo.
+
+E-commerce
+
+> "e", asssim como "e-mail", significa "electronic"
+> Comércio eletroico
+> site de compra e venda com sistema de pagamento.
+> o sitema de pagamento pode ser exterior ao site
+> PicPay, Boleto,PagSeguro,PayPal, Mercado pago.
+
+Web-server Onde fica guardado nossos dados.
+
+> Existem 2 tipos: estático e dinâmico
+> O estático é um servidor fisico onde são armazenados arquivos,
+software e ou bando de dados.
+> O dinâmico se refere aos sofwares que estão presentes no servidor físico.
+
+Web-server Dinâmico 
+
+> Arquivos (file server)
+> Aplicações (application server)
+> Banco de Dados (database)
+> Tudo Junto e Misturado
+
+Um site , ou aplicativo, precisa estar hospedado em um servidor para
+poder ser acessado.
+Os dados de um site precisam estar em um servidor
+O bando de dados de um site ou aplicativo precisa estar em um servidor
+
+Web-service - Interface disponível para fazer requisições e 
+consultas em bando de dados inacessíveis(Correios, Governo).
+
+Stacks 
+
+Pilhas de tecnologia Conjunto de software necessários 
+e suficientes para executar um aplicativo/programa linguagens de
+programação ambientes e ferramentas de interação com o app/sw.
+Capacidade de limitação de performace
+Pontos fortes e fracos do app/sw
+
+Importância
+
+Os lideres de projetos precisam das informações das equipes de 
+desenvolvimento.
+Os Desenvolvedores precisam saber as limitações e capacidades das 
+ferramentas e ambientes que tem disponiveis
+Sistemas , banco de dados, linguagens de programação , protocolos 
+de cominicação.
+
+> Estratégias de negócios
+> Maturidade
+> Contratações, planos de mitigações de riscos, aumento da capacidade
+uso dos dados.
+
+Front-end
+
+Parte da frente
+Site, software, aplicativo , web service
+Interface, UI, UX
+Lógica de Programação , HTML , CSS,JQUERY, JS, AJAX, PHP.
+BOOTSTRAP/OUTROS FRAMEWORKS.
+
+Back-end
+
+Parte de trás
+Servidores. banco de dados
+meio-de-campo entre interface e banco de dados , regras de negócios
+validações.
+MySQL Oracle, protocolos de cominicação PHP, JAVA, NODE.JS.
+
+Full Stack
+
+Profissional que sabe trabalhar em todas essas areas
+das tecnologias de desenvolvimento/execução de um app/sw.
+
+
 
 
 
