@@ -1,0 +1,39 @@
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.deps.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.dev.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csprojAssemblyReference.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfoInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfo.cs
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csproj.CoreCompileInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Meus_Estudos\Estudos_ProjetosDio\Criando um APP simples de cadastro de séries em .NET\ProjetoCrudSeries\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
