@@ -26,3 +26,7 @@ Estudos Da Plataforma https://web.digitalinnovation.one/
 ### Criando um APP simples de cadastro de séries em .NET
 
 "Aprenda como criar um algoritmo simples de cadastro de séries para praticar seus conhecimentos de orientação a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar recursos de coleção."
+
+### LocalizaLabs .NET Developer - Bootcamps
+
+"Bem-vindo ao bootcamp #LocalizaLabs! O #LocalizaLabs é o laboratório de tecnologia e inovação da Localiza e conta com quase 700 colaboradores totalmente dedicados à tecnologia e a tudo o que ela nos possibilita na jornada de transformação. Acreditamos que a inovação, na prática, só é possível por meio da troca de compartilhamento de ideias, por isso, essa trilha é formada por conteúdos com experts em diferentes habilidades das skills esperadas no programa de contratação. Aqui você vai aprender e desenvolver competências buscadas no mercado de .NET utilizando C# e ainda pode conquistar uma oportunidade de integrar o time da maior locadora de veículos da América Latina."
