@@ -8,7 +8,7 @@
 
 ##### Solução de problemas em C# 
 
-###### [Consumo Médio do Automóvel](D:\Meus_Estudos\Estudos_ProjetosDio\Bootcamp_LocalizaLabs _.NET Developer\Desafios_DIO_LocalizaLabs\Solução de problemas em C#\Consumo Médio do Automóvel.txt)
+###### [Consumo Médio do Automóvel](https://github.com/cristianeasreis/Estudos_ProjetosDio/blob/main/Bootcamp_LocalizaLabs%20_.NET%20Developer/Desafios_DIO_LocalizaLabs/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel.txt)
 
 
 
