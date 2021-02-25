@@ -21,3 +21,6 @@
 [**Crescimento Populacional**](https://github.com/cristianeasreis/Estudos_ProjetosDio/blob/main/Bootcamp_LocalizaLabs%20_.NET%20Developer/Desafios_DIO_LocalizaLabs/Desafios%20aritm%C3%A9ticos%20em%20C%23/Crescimento%20Populacional.txt)
 
 [**Bazinga!**](https://github.com/cristianeasreis/Estudos_ProjetosDio/blob/main/Bootcamp_LocalizaLabs%20_.NET%20Developer/Desafios_DIO_LocalizaLabs/Desafios%20aritm%C3%A9ticos%20em%20C%23/Bazinga!.txt)
+
+[**Tempo de um Evento**](https://github.com/cristianeasreis/Estudos_ProjetosDio/blob/main/Bootcamp_LocalizaLabs%20_.NET%20Developer/Desafios_DIO_LocalizaLabs/Desafios%20aritm%C3%A9ticos%20em%20C%23/Tempo%20de%20um%20Evento.txt)
+

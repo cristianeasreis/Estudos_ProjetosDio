@@ -1,0 +1,18 @@
+Desafios aritméticos em C#
+
+5 / 5 - Comunicação em Piralândia
+
+using System; 
+
+class URI {
+
+    static void Main(string[] args) { 
+
+        string n = Console.ReadLine();
+        char[] arr = n.ToCharArray();
+        Array.Reverse(arr);
+
+        string v = new string(arr);
+        Console.WriteLine(v);
+    }
+}
