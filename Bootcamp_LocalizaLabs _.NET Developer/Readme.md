@@ -16,3 +16,4 @@
 
 ## **Desafios aritméticos em C#**
 
+[**Média 1**](https://github.com/cristianeasreis/Estudos_ProjetosDio/blob/main/Bootcamp_LocalizaLabs%20_.NET%20Developer/Desafios_DIO_LocalizaLabs/Desafios%20aritm%C3%A9ticos%20em%20C%23/M%C3%A9dia%201.txt)
