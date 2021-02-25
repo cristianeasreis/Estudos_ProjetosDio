@@ -29,3 +29,5 @@
 ## Praticando programação em C#
 
 [**Coordenadas de um Ponto**](https://github.com/cristianeasreis/Estudos_ProjetosDio/blob/main/Bootcamp_LocalizaLabs%20_.NET%20Developer/Desafios_DIO_LocalizaLabs/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/Coordenadas%20de%20um%20Ponto.txt)
+
+[**Compras no Supermercado**](https://github.com/cristianeasreis/Estudos_ProjetosDio/blob/main/Bootcamp_LocalizaLabs%20_.NET%20Developer/Desafios_DIO_LocalizaLabs/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/Compras%20no%20Supermercado.txt)
