@@ -25,3 +25,5 @@
 [**Tempo de um Evento**](https://github.com/cristianeasreis/Estudos_ProjetosDio/blob/main/Bootcamp_LocalizaLabs%20_.NET%20Developer/Desafios_DIO_LocalizaLabs/Desafios%20aritm%C3%A9ticos%20em%20C%23/Tempo%20de%20um%20Evento.txt)
 
 [**Comunicação em Piralândia**](https://github.com/cristianeasreis/Estudos_ProjetosDio/blob/main/Bootcamp_LocalizaLabs%20_.NET%20Developer/Desafios_DIO_LocalizaLabs/Desafios%20aritm%C3%A9ticos%20em%20C%23/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia.txt)
+
+## Praticando programação em C#
