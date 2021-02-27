@@ -33,7 +33,26 @@
 
 ## **Métricas e agilidade**
 
-> 
+> Para Daniel, a área principal que demanda na Stayfilm é a área chamada de **data**,onde são colhidos o feedback dos usuários e os indicadores de performance do produto.É onde são colhidas as informações do que está acontecendo na plataforma e nos indicadores.
+> Essas informações são demandas para todas as outras áreas da empresa e em cima disso é mostrado para a equipe o que deve ser trabalhado, como deve ser trabalhado, quais são as próximas etapas, onde a Stayfilm gostaria de chegar e o que é preciso fazer para isso acontecer.
+> Com base nas funcionalidades sobre o produto e também sobre as demandas das áreas - comercial, marketing cinema, desenvolvimento-são definidas quais as melhores estratégias e , a partir disso, o gerente de produto decide com a equipe o que vai entrar no roadmap e o que cada um têm que fazer para atingir o objetivo.
+>
+> **Ryan Singer,** Gestor de produto da empresa americana **Basecamp**, alerta que procurar desculpas para construir algo que queremos é um truque para ir mais a fundo com o produto e aprender a andar para trás. É preciso ter em mente a demanda e se perguntar , por que é a hora certa ? Por que isso é importante ? O que importa agora ?
+> Isto é , as decisões que movem a empresa têm que estar baseadas em métricas e informações reais, não apenas em ideias sem embasamento.
+> Daniel ressalta a importância de prestar atenção nas informações que o ***core business,*** ou seja , a parte central da empresa , está passando . No caso da Stayfilm, essas métricas seriam a quantidade de filmes produzidos , rejeitados, aprovados, a média de fotos usadas  usuário , quantos minutos de filme foram produzidos etc.
+> Todos esses indicadores, de diferentes visões do produto, servem para medir o andamento e progresso de negócio. Mas toda a empresa precisa ter principalmente, a métrica mestra.
+> Na Stayfilm , a ***métrica mestra*** é o número de compartilhamentos dos filmes produzidos pela ferramenta.Este indicador resulta em várias outras métricas em relação ao beneficio do produto. Através do compartilhamento Daniel mede os resultados do trabalho , pois é dele que serão gerados novos acessos, novos downloads e satisfação do usuário.
+> Se a estratégia de negócio do Stayfilm é atingir 5 milhões de compartilhamentos mensais de vídeos, quais são as demandas de melhorias no produto que podem ajudar a empresa alcançar esse número ? Este é um exemplo de alinhamento estratégico com o produto.
+
+## **Roadmap e Metodologia Ágil**
+
+> Para a equipe entregar as demandas do roadmap e atingir suas metas dentro do prazo, são usados recursos de Metodologia Ágil.
+>
+> A Metodologia Ágil mudou a relação entre gestão do produto e engenharia colaborativa e dela nasceram os processos mais utilizados hoje: ***Scrum e Kanban***, ambos com foco em resultados rápidos e certos. Estes métodos podem ser usados em qualquer tipo de negócio para estruturar equipes de desenvolvimento.
+>
+> Esses são apenas uma amostra das pessoas e elementos envolvidos em qualquer grande produto: gestor de produto, equipe de produtos (designers, engenheiros, desenvolvedores, etc.), componentes, roadmap, ferramentas, equipe de marketing e um site de marketing e, claro, os clientes. Remova qualquer um desses elementos e o resultado será diferente.
+
+
 
 
 
