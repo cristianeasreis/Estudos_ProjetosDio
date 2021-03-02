@@ -68,7 +68,59 @@
 
 > De acordo com Salim Ismail, Michael S. Malone e Yuri Van Geest, autores do livro"Organizações Exponenciais", uma das características dessas organizações que as levam a crescer dez vezes mais rápido que as empresas tradicionais é possuir até **dez atributos**, que combinados corretamente trazem ordem, controle, estabilidade, criatividade, crescimento e incerteza .
 >
-> 
+> Os autores agrupam esses atributos por :
+>
+> - **Ideias** : Interfaces, dashboards,experimentação, autonomia, tecnologias sociais, que representam características internas;
+> - **Scale** : equipe sob demanda , comunidade e multidão , algoritmos, ativos alavancados, engajamento, representado os atributos externos que influenciam os negócios.
+>
+> Quanto mais dessas características o modelo de negócio tiver, mais expansível pode ser.
+
+#### **Atributos que ajudaram a Rocket.Chat a ser um caso de sucesso**
+
+> Um atributo que foi praticamente a base da Rocket.Chat é Comunidade e Multidão-Importante para ter feedbacks, encontrar colaboradores, ganhar escala no desenvolvimento da solução e promover o serviço de forma viral. Criar uma solução com código open source, que é aberta, ajudou a forma uma **comunidade e multidão de mais de 800 pessoas** que participam e atualizam a plataforma.
+>
+> Gabriel Engel, CEO da empresa, conta que , uma vez que as pessoas participam da construção de solução , elas começam a dar relevância para a mesma. "No momento que as pessoas viram que aquilo(Rocket.Chat) se tornou uma ferramenta até para criar outras empresas, para customizar e adaptar para outras pessoas , elas passam a falar mais a respeito daquilo, escrever um blog que pode virar uma notícia(...). Então você começa a virar alguma coisa notável , que as pessoas querem ser as primeiras a falar e divulgar isso para os outros."
+>
+> Além de tornar a empresa conhecida, Gabriel ainda usou a **capacidade de criatividade da multidão para alavancar o próprio negócio** e melhorar o que a comunidade apontava como um problema . Os autores Salim Ismail, Michael S.Malone e Yuri Van Geest apontam uma mudança de comportamento pós internet: "A internet está produzindo comunidades baseadas em atributos que compartilham intenções, crenças , recursos , preferências, necessidades, riscos e outras características , e não dependem da proximidade física."
+>
+> Ainda dentro do atributo de **comunidade e multidão**, Gabriel está desenvolvendo um Marketplace onde todos os colaboradores da comunidade poderão vender customizações e serviços para os clientes da plataforma, gerando ainda mais . "A gente acha quer virar plataforma , oferecer esse ambiente onde pessoas criam coisa em cima que possam vender, você cria uma plataforma que tem um ecossistema economicamente saudável. Dai atrai mais gente , atrai inovação , atrai investimento e esse é o nosso plano e nossa visão."
+>
+> Através da comunidade , Gabriel usou **ativos alavancados** **e equipe sob demanda** que facilitaram na evolução da empresa. Assim como a Lady Driver usou os smartphones das motoristas para atender chamadas de transporte via aplicativo, a Rocket.Chat ao invés de contratar uma grande equipe de desenvolvedores de software e comprar computadores para os mesmos, apostou na comunidade de colaboradores, onde esses utilizam seus próprios computadores, para achar os erros e fazer melhorias na solução.
+>
+> Para os autores da obra "Organizações Exponenciais"," essa prática otimiza a flexibilidade e permite que a empresa se ajuste de forma incrivelmente rápida , já que elimina a necessidade de pessoas para gerenciar esses ativos."
+>
+> A solução também possui **Interface** que permite aos desenvolvedores desenvolver "**plugins**" e customizações para integrar com diferentes softwares do mercado.
+>
+> Segundo o livro base deste estudo, uma das características do **engajamento**, é  despertar emoções positivas , ao invés de negativas, e o feedback instantâneo. A Rocket.Chat possui Community Managers que monitoram os  comentários e reações dos clientes para com a marca.
+>
+> Essa é a ferramenta mais forte que a empresa tem para saber onde está a "dor"do cliente, e resolver os problemas mais urgentes da plataforma. Tudo isso, indicado pelos próprios usuários, o que acabou criando uma relação de **proximidade entre cliente e marca**.
+>
+> Outro atributo de destaque e aplicado na Rocket.Chat são os **algoritmos**, como por exemplo a solução inteligente de ChatBot. A obra "Organizações Exponenciais" aponta que organizar e explorar os dados é um passo fundamental para evoluir os algoritmos da empresa , definindo quatro passos para serem seguidos na criação de modelos de negócios exponenciais:
+>
+> 1. **Reunir**: aproveitar todos os dados que são coletados por meio de sensores humanos ou conjunto de dados públicos.
+> 2. **Organizar**: organizar esses dados, um processo conhecida como ETL (extração transformação e carga).
+> 3. **Aplicar** : utilizar ferramentas de dados para extrair ideia, identificar tendências e ajustar novos algoritmos.
+> 4. **Expor**: o último passo é os dados para que as comunidade, ou a equipe , desenvolva serviços, novas funcionalidades, e inovação.
+>
+> Como um meio de acompanhar o crescimento, além do algoritmo, o CEO , utiliza os **dashboards**, para tomadas de decisão com agilidade e precisão . Para acompanhar o que as comunidades estão falando, ele usa métricas que mostram os números para análise em tempo real.
+>
+> Para monitoramento interno, o método mais comum usado pelas organizações exponenciais é o **Objetivo  e Resultados-Chaves**, ou OKR. (Objectives and Key Results), criada por Andy Grove e levada ao Google por John Doerr. As OKRs acompanham metas individuais, de equipe e da empresa. Groove estabeleceu Objetivos e Resultados-Chave como resposta a duas perguntas:
+>
+> **1. Aonde quero ir? (Objetivos.)**
+>
+> **2. Como sei que estou chegando lá? (Resultados-chave para garantir que o processo esteja correndo.)**
+>
+> Traçados os objetivos e a estratégia, a Rocket.Chat passou por um processo de **experimentação**, onde apenas um cliente pagante usava a plataforma e dava feedbacks da experiência.
+>
+> No livro “Organizações Exponenciais” os autores abordam uma outra estratégia para fazer a **experimentação**. “Um grande número de ideias bottom-up, devidamente filtradas, sempre supera o pensamento top-down, não importa o setor ou organização (…). Isso é chamado de ‘aprendizagem escalável*’*”.
+>
+> ### Como o investidor pode agregar valor à empresa
+>
+> O crescimento exponencial da Rocket.Chat teve como alicerce os atributos do Propósito Transformador Massivo. Entretanto, um outro aspecto para a expansão é o **investidor**. Além do capital, é essencial que o investidor dê o suporte que a empresa precisa com networking, experiência e um nome de peso no mercado. O que chamamos de **Dinheiro Inteligente ou Smart Money**.
+>
+> Segundo Gabriel, o investidor New Entrerprise Associates, foi escolhido pois é um dos mais antigos e conhecidos dos Estados Unidos e tem participação em outras empresas de sucesso mundial com solução e modelo de negócio open source como MongoDB, ElasticSearch e Sugar CRM.
+>
+> Ou seja, o investidor já possui experiência prévia na criação de empresas com modelo de negócio similar, o que ajuda a **acelerar as tomadas de decisão e o crescimento do negócio**.
 
 
 
