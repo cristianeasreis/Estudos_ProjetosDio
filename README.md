@@ -34,3 +34,7 @@ Estudos Da Plataforma https://web.digitalinnovation.one/
 # MRV .NET Developer
 
 "Bem-vindo ao bootcamp MRV .NET DEVELOPER é um programa gratuito para formação de desenvolvedores .NET com foco em soluções em C#, sendo a porta de entrada para conquistar uma oportunidade de contratação na MRV, a empresa parceira nos projetos da maior Construtora da América Latina."
+### Configuração da Arquitetura do front-end
+
+> Muito além do back , aprenda nesse curso como proteger o nosso front-end, como criar um setup de validação de dados e utilizar o "refit",uma das bibliotecas mais conhecidas do mercado , tudo isso para que você possa construir Aplicações mais sólidas de ponta a ponta.
+
